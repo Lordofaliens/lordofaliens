@@ -8,8 +8,8 @@ I started programming about 5 years ago with simple JS and continued with discov
 
 * 🌍  I'm based in Rotterdam
 * ✉️  You can contact me at [vladyslav.maksymiuk@gmail.com](mailto:vladyslav.maksymiuk@gmail.com)
-* 🧠  I'm learning Solidity and Dapps
-* 🤝  I'm open to collaborating on everything you suggest
+* 🧠  I'm curios about Web3
+* 🤝  I'm open to collaborating on everything you suggest (almost everything)
 * ⚡  I've coded a multiplayer game on x86 assembly, nothing worse than that
 
 ### Skills

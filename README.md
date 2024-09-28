@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 JS Full Stack Developer
 -----------------------
 
-I started programming about 4 years ago with simple JS and continued with discovering TS, Next.js, Express.js, and Nest.js. As side hobbies learnt Spring Boot, .NET, and a bit of C++. Currently, I'm extremely excited about Web3 development and its solutions to modern problems.
+I started programming about 5 years ago with simple JS and continued with discovering TS, Next.js, Express.js, and Nest.js. As side hobbies learnt Spring Boot, .NET, and a bit of C++. Currently, I'm open to new connections and friends, but not looking for any kind of job. Public repositories for fun, real work only in private)
 
 * 🌍  I'm based in Rotterdam
 * ✉️  You can contact me at [vladyslav.maksymiuk@gmail.com](mailto:vladyslav.maksymiuk@gmail.com)
